@@ -1,0 +1,3 @@
+/Users/ncsdark/Documents/Studies/year 2/avs/hw/hw5/program/build/CMakeFiles/rebuild_cache.dir
+/Users/ncsdark/Documents/Studies/year 2/avs/hw/hw5/program/build/CMakeFiles/edit_cache.dir
+/Users/ncsdark/Documents/Studies/year 2/avs/hw/hw5/program/build/CMakeFiles/task.dir
